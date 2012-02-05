@@ -1,0 +1,13 @@
+daae9f7cedd7b62e2cbc87a1c1184139 *DESCRIPTION
+b68c9fad3ebf52099d52852992719fc9 *NAMESPACE
+ecb5e19f7b66ffb6f5a0c70f927c220b *R/function.r
+81823c89d76c8677f9f7ad3c53fa25ae *R/global.r
+155b6c744db40833013f6d9e48e2cedd *R/pairheatmap.r
+b77528ae628677813bfdad2515a90beb *R/rankMatrix.r
+69b068cfdb17eadc88ade5c7914fd0bd *inst/doc/pairheatmap.pdf
+859808a1f0691bc00d168fe309fcfc8f *inst/doc/pairheatmap.rnw
+b406ab8fe51ccdeeab3c155357758d4c *man/pairheatmap-package.Rd
+6fe96b868b144d651affc4912e3dfcbc *man/pairheatmap.Rd
+8843239ff101dd45aee845bae531cb47 *vignettes/figure.pdf
+859808a1f0691bc00d168fe309fcfc8f *vignettes/pairheatmap.rnw
+34a29195c041ae6377d4f2d0ad278044 *vignettes/pairheatmap.tex
